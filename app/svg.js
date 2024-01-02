@@ -35,4 +35,6 @@ const SvgComponent = React.forwardRef((props, ref) => (
     </g>
   </svg>
 ));
+
+SvgComponent.displayName = 'SvgComponent';
 export default SvgComponent;
