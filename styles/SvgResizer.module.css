@@ -1,0 +1,5 @@
+/* styles/SvgResizer.module.css */
+.resizedSvg {
+    transform: scale(0.5);
+  }
+  
